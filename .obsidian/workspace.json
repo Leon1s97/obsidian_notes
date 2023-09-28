@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "b9708e52631a83fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3253645d425ef3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a3d87ab21eb6ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/大话数据结构/2. 算法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c63c2270e750b1f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/大话数据结构/3. 线性表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79abcfd7ee4af495",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8d67b740e735463",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "366bd51eb1836485",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84af71aa6a56ba9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc986d94e2a929ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "853413c29e851ce6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9eabdc8b0c188b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0652902218f55fc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tech/大话数据结构/3. 线性表.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c57c073546aee0f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tech/大话数据结构/3. 线性表.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bddd5a47f76b986",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "747931512e30b6b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tech/大话数据结构/3. 线性表.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c63c2270e750b1f1",
+  "lastOpenFiles": [
+    "Tech/大话数据结构/2. 算法.md",
+    "Tech/大话数据结构/3. 线性表.md",
+    "Pasted image 20230928095546.png",
+    "Tech/大话数据结构/1. 数据结构绪论.md",
+    "2..md",
+    "Tech/大话数据结构",
+    "Tech",
+    "新建文件夹"
+  ]
+}
